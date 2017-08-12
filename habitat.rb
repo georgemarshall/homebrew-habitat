@@ -18,9 +18,9 @@
 class Habitat < Formula
   desc "Automation That Travels with the App"
   homepage "https://www.habitat.sh/"
-  url "https://dl.bintray.com/habitat/stable/darwin/x86_64/hab-0.28.0-20170729010833-x86_64-darwin.zip"
-  version "0.28.0-20170729010833"
-  sha256 "536f531be330e5011b08648f88c2f7afaeaa3cdfa98f169e0e0ac881f30cd02a"
+  url "https://dl.bintray.com/habitat/stable/darwin/x86_64/hab-0.29.1-20170810235219-x86_64-darwin.zip"
+  version "0.29.1-20170810235219"
+  sha256 "18735944b6ff1ed6907bc3cd4265778399628a5bc893445791895e9df18a4b0a"
 
   def install
     bin.install "hab"
